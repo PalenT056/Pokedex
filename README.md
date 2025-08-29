@@ -1,5 +1,4 @@
 # PokeAPI
-Only Pokedex pages is available for now  
 
 ## Running
 ```
